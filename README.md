@@ -1,7 +1,6 @@
 # 🌿 Potato Disease Classification with Deep Learning
 # 🥔 Классификация болезней картофеля с помощью нейросетей
 
-### Быстрый просмотр проекта (Рекомендуется):
 ![Python](https://img.shields.io/badge/Python-3.11-blue?logo=python)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-2.13-orange?logo=tensorflow)
 ![Keras](https://img.shields.io/badge/Keras-2.13-black?logo=keras)
@@ -13,6 +12,8 @@
 ![Binary_Acc](https://img.shields.io/badge/Binary_Acc-93.00%25-success)
 ![Multiclass_Acc](https://img.shields.io/badge/Multiclass_Acc-89.00%25-informational)
 
+
+## Быстрый просмотр проекта (Рекомендуется):
 ***Бинарная классификация:***
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/VeronikaKolimova/ML-Pattern-Recognition-Toolkit/blob/main/L_06_1.ipynb)
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/VeronikaKolimova/ML-Pattern-Recognition-Toolkit/main?filepath=L_06_1.ipynb)
