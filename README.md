@@ -1,5 +1,5 @@
 # 🌿 Potato Disease Classification with Deep Learning
-# 🌿 Классификация болезней картофеля с помощью нейросетей
+# 🥔 Классификация болезней картофеля с помощью нейросетей
 
 ***Бинарная классификация:***
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/VeronikaKolimova/ML-Pattern-Recognition-Toolkit/blob/main/L_06_1.ipynb)
@@ -12,6 +12,20 @@
 [![Open in GitHub](https://badgen.net/badge/icon/github?icon=github&label)](https://github.com/VeronikaKolimova/ML-Pattern-Recognition-Toolkit/blob/main/L_06_2.ipynb)
 
 ---
+
+# 📊 Наборы данных
+
+## Датасеты
+
+- **Plant Village Disease Classification Challenge**  
+  https://www.kaggle.com/datasets/emmarex/plantdisease
+- **Классы для бинарной классификации:**
+  - `Potato___Late_blight`
+  - `Potato___healthy`
+- **Классы для многоклассовой классификации:**
+  - `Potato___Early_blight`
+  - `Potato___Late_blight`
+  - `Potato___healthy`
 
 ## 📊 Результаты бинарной классификации (Поздняя фитофтороза vs Здоровое растение)
 
